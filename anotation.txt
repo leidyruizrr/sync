@@ -1,2 +1,4 @@
 Data security controls
 Data is stored in Amazon Web Services (AWS), Microsoft Azure, or Google Cloud data centers. The available regions are listed below.
+
+LCRR and everyone
